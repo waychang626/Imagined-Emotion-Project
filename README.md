@@ -15,6 +15,8 @@ http://headit.ucsd.edu/studies/3316f70e-35ff-11e3-a2a9-0050563f2612
 MNIST Brain Digit
 http://mindbigdata.com/opendb/index.html
 
+Final Project Presentation 
+https://www.youtube.com/watch?v=I5HSzpKXR0c&feature=youtu.be&fbclid=IwAR2qbMiwlD7XlePZ4UuMCM-A_W6GpGUr7tmteiLQHVYz5EBrRJH_Jta7zBo
 
 
 
